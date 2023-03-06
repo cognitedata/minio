@@ -36,7 +36,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
 	github.com/jcmturner/gokrb5/v8 v8.4.2
 	github.com/json-iterator/go v1.1.11
-	github.com/klauspost/compress v1.12.2
+	github.com/klauspost/compress v1.14.4
 	github.com/klauspost/cpuid/v2 v2.0.4
 	github.com/klauspost/pgzip v1.2.5
 	github.com/klauspost/readahead v1.3.1
@@ -59,8 +59,8 @@ require (
 	github.com/minio/sio v0.3.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/montanaflynn/stats v0.5.0
-	github.com/nats-io/nats-server/v2 v2.1.9
-	github.com/nats-io/nats.go v1.10.0
+	github.com/nats-io/nats-server/v2 v2.7.4
+	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
 	github.com/nats-io/stan.go v0.8.3
 	github.com/ncw/directio v1.0.5
 	github.com/nsqio/go-nsq v1.0.8
@@ -84,9 +84,8 @@ require (
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
 	go.etcd.io/etcd v0.0.0-20201125193152-8a03d2e9614b
 	go.uber.org/zap v1.14.1
-	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007
-	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
+	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
+	golang.org/x/sys v0.0.0-20220111092808-5a964db01320
 	golang.org/x/tools v0.1.1 // indirect
 	google.golang.org/api v0.31.0
 	gopkg.in/yaml.v2 v2.3.0
